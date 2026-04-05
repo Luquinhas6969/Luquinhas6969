@@ -1,6 +1,8 @@
 ## Ola, sou Lucas Gabriel
-👨‍🎓Acadêmico de S.I Unitins.
-👨‍🎓Técnico em Informática IFTO.
+💻 Information Systems Student at UNITINS  
+🎓 Computer Technician  
+🚀 Passionate about technology, software development, and problem-solving  
+🌱 Always learning and building new projects  
 
 
 <picture>
