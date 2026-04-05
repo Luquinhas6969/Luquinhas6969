@@ -1,5 +1,7 @@
 ## Ola, sou Lucas Gabriel
-👨‍🎓Estudante do IFTO Campus Paraíso
+👨‍🎓Acadêmico de S.I Unitins.
+👨‍🎓Técnico em Informática IFTO.
+
 
 <picture>
   <source
